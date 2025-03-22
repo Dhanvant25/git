@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1 class="text-3xl font-bold underline">Hello world!</h1>
-    <button>Click me main</button>
+    <button>Click me branch1</button>
     <p>Branch 1</p>
   </div>
 </template>
